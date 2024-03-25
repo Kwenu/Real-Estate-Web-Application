@@ -1,0 +1,137 @@
+{
+  "listings": [
+    {
+      "id": "prop1",
+      "type": "House",
+      "bedrooms": 3,
+      "price": 75000,
+      "tenure": "Freehold",
+      "description": "Offering a smart living space moments from Hyde Park, this fantastic 5 bed penthouse benefits from comfortable accommodation with bright rooms, 5 well proportioned bedrooms and a lovely sun room leading to a terrace.",
+      "location": "Petts Wood Road, Petts Wood, Orpington",
+      "picture": "Assests/1.1.jpg",
+      "img1": "Assests/1.2.jpg",
+      "img2": "Assests/1.3.jpg",
+      "img3": "Assests/1.4.jpg",
+      "url": "",
+      "added": {
+        "month": "October",
+        "day": 12,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop2",
+      "type": "Flat",
+      "bedrooms": 2,
+      "price": 39999,
+      "tenure": "Freehold",
+      "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms. This apartment being only five years old, is still under a 10 year building guarantee...",
+      "location": "Crofton Road Orpington BR6",
+      "picture": "Assests/2.1.jpg",
+      "img1": "Assests/2.2.jpg",
+      "img2": "Assests/2.3.jpg",
+      "img3": "Assests/2.4.jpg",
+      "url": "",
+      "added": {
+        "month": "September",
+        "day": 14,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop3",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 36599,
+      "tenure": "Freehold",
+      "description": "Boasting exquisite, contemporary interiors throughout this stunning 4 bedroom house is enviably located in the heart of prestigious Mayfair and benefits from a cinema room, gym, sauna and terrace.",
+      "location": "Adams Row, Mayfair, W1K",
+      "picture":  "Assests/3.1.jpg",
+      "img1": "Assests/3.2.jpg",
+      "img2": "Assests/3.3.jpg",
+      "img3": "Assests/3.4.jpg",
+      "url": "",
+      "added": {
+        "month": "September",
+        "day": 2,
+        "year": 2023
+      }
+    },
+    {
+      "id": "prop4",
+      "type": "Flat",
+      "bedrooms": 6,
+      "price": 17899,
+      "tenure": "Freehold",
+      "description": "With a south-facing aspect towards one of the most prestigious squares in Knightsbridge this stunning 4/6 bedroom town House offers a superb interior finish throughout with courtyard Garden and roof terrace.",
+      "location": "Montpelier Square, Knightsbridge, SW7",
+      "picture":  "Assests/4.1.jpg",
+      "img1": "Assests/4.2.jpg",
+      "img2": "Assests/4.3.jpg",
+      "img3": "Assests/4.4.jpg",
+      "url": "",
+      "added": {
+        "month": "January",
+        "day": 28,
+        "year": 2022
+      }
+    },
+    {
+      "id": "prop5",
+      "type": "House",
+      "bedrooms": 4,
+      "price": 55000,
+      "tenure": "Freehold",
+      "description": "Presenting an elegant, renovated 4 bedroom low built house in the heart of beautiful Belgravia, benefiting from a lift that accesses all 3 floors, large double fronted sitting room, 4 bathrooms and access to a terrace.",
+      "location": "Wilton Street, Belgravia, SW1X",
+      "picture":  "Assests/5.1.jpg",
+      "img1": "Assests/5.2.jpg",
+      "img2": "Assests/5.3.jpg",
+      "img3": "Assests/5.4.jpg",
+      "url": "",
+      "added": {
+        "month": "July",
+        "day": 15,
+        "year": 2021
+      }
+    },
+    {
+      "id": "prop6",
+      "type": "House",
+      "bedrooms": 2,
+      "price": 21455,
+      "tenure": "Freehold",
+      "description": "Cheniston Lodge is moments from Kensington High street, this simply beautiful 6 bedroom freehold house boasts amazing fully refurbished interiors, built in lift, period features throughout and a wonderful roof terrace.",
+      "location": "Cheniston Gardens, Kensington, W8",
+      "picture":  "Assests/6.1.jpg",
+      "img1": "Assests/6.2.jpg",
+      "img2": "Assests/6.3.jpg",
+      "img3": "Assests/6.4.jpg",
+      "url": "",
+      "added": {
+        "month": "February",
+        "day": 22,
+        "year": 2020
+      }
+    },
+    {
+      "id": "prop7",
+      "type": "Flat",
+      "bedrooms": 6,
+      "price": 40599,
+      "tenure": "Freehold",
+      "description": "This exceptional 5 bedroom terrace House offers 6 expansive floors with 2 receptions, dining room, study and a private Garden. The house has been expertly renovated to an impeccable standard.",
+      "location": "Lancaster Gate, Lancaster Gate, W2",
+      "picture":  "Assests/7.1.jpg",
+      "img1": "Assests/7.2.jpg",
+      "img2": "Assests/7.3.jpg",
+      "img3": "Assests/7.4.jpg",
+      "url": "",
+      "added": {
+        "month": "October",
+        "day": 29,
+        "year": 2022
+      }
+    }
+  ]
+}

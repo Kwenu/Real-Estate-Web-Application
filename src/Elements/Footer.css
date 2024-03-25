@@ -1,0 +1,21 @@
+.Footer {
+    background-color: #343A40;
+    color: #fff;
+    padding: 20px 0;
+    bottom: 0;
+}
+
+.Footer .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+.Footer .icon {
+    margin-right: 10px;
+}
+
+.Footer.addBackground {
+    background-color: #343A40;
+}

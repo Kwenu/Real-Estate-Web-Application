@@ -1,0 +1,139 @@
+@keyframes text-animation {
+    0% {
+        font-size: larger;
+    }
+    100% {
+        font-size: initial;
+    }
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, span,
+a, button,
+input, textarea {
+    animation: 1.5s text-animation ease-out;
+}
+
+
+/* Fonts Style */
+@import url('https://fonts.googleapis.com/css2?family=Play&family=Poppins&display=swap');
+
+:root {
+    /* All Colors */
+    --primaryColor: #3858d6;
+    --primaryColorLight: #f0f4ff;
+    --primaryColrDark: #341e71;
+    --gradientLight: #708fff;
+    --bgColor: #ffffff;
+    --formColor: #ecd9d0;
+    --whiteColor: #ffffff;
+    --blackColor: #000000;
+    --blackColorLight: #eaecfa;
+    --shadowColor: #eaf0fa;
+    --inputColor: #f8f6f7;
+    --cardColor: #f0f0ef;
+    --orangeColor: #d47a3a;
+    --greyColor: #a4a4a1;
+
+    /* All Font Sizes */
+    --biggestFontSize: 2.5rem;
+    --h1FontSize: 1.6rem;
+    --h2FontSize: 1.25rem;
+    --h3FontSize: 1rem;
+    --normalFontize: 0.93 rem;
+    --smallFontSize: 0.81 rem;
+    --smallestFontSize: 0.75rem;
+    --borderRadius: 10px;
+}
+
+/*---Listing.js---*/
+
+.listing{
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    width: 90%;
+}
+
+.listing:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.listing-img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.img-carousel{
+    height: auto;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.like-btn{
+    color: #ffdd12;
+    font-size: 20px;
+}
+
+.like-btn:hover{
+    color: #ff8300;
+    font-size: 30px;
+}
+
+/*-----------------*/
+
+
+/*---UserFavourites.js---*/
+
+.Fav-List{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    height: 100%;
+    padding: 15px;
+    margin-top: 3%;
+    text-align: center;
+    border-left: #cdcdcd 1px solid;
+    border-right: #cdcdcd 1px solid;
+}
+
+.favouriteItem{
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.favouriteItem img{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+.dislike-btn{
+    color: #ff5959;
+    font-size: 20px;
+}
+
+.dislike-btn:hover{
+    color: #ff0000;
+    font-size: 30px;
+}
+
+/*----------------------*/
+
+
+/*------SearchFilter.js------*/
+
+.filter-button{
+    padding: 10px;
+    margin: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+/*----------------------*/

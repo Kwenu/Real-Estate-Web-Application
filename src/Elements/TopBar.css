@@ -1,0 +1,14 @@
+.navbar {
+    background-color: #1a1a1a;
+}
+
+.btn-outline-light {
+    color: #fff;
+    border-color: #fff;
+}
+
+.btn-outline-light:hover {
+    color: #1a1a1a;
+    background-color: #fff;
+    border-color: #fff;
+}
